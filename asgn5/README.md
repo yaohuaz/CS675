@@ -9,3 +9,4 @@ perl run_lsq.pl ../ionosphere ./
 
 Same for /breast_cancer folder and /qsar folder.
 
+The file, answercode.py, is the correct code to use for least square calculation.
